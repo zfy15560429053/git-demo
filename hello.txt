@@ -19,3 +19,4 @@ worlhello world! hello git!
 <<<<<<< HEAD
 worlhello world! hello git! master test
 worlhello world! hello git! hot-fix test
+hello
